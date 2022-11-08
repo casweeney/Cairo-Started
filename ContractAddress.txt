@@ -1,0 +1,4 @@
+Contract address: 0x0665ec9ea1b481c047cd763ea0d860fac444610ada1e00135878eb4ed3bbbe86
+Transaction hash: 0x024635c9e6eaef7bfdd06d145c6ede766b8b1396ab495f046011c64eefe97f3e
+
+https://goerli.voyager.online/contract/0x0665ec9ea1b481c047cd763ea0d860fac444610ada1e00135878eb4ed3bbbe86
